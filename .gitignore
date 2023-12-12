@@ -1,0 +1,18 @@
+# Ignore LaTeX build files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+
+# Ignore temporary files
+*.swp
+*.synctex.gz
+
+# Ignore build directories
+_build/
+out/
+
+# Ignore macOS specific files
+.DS_Store
